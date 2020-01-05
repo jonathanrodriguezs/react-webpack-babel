@@ -1,6 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
+import Home from "./components/Home"
 
-const App = () => <h1>Home</h1>
+const App = () => <Home />
 
 ReactDOM.render(<App />, document.querySelector("#root"))

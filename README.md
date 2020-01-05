@@ -1,1 +1,3 @@
-# React Playground
+# React Patterns Playground
+
+- Render prop
