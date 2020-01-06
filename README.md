@@ -1,6 +1,6 @@
 # React with webpack 4 and babel setup
 
-## Start
+## Getting started
 To locally run this project type in a terminal:
 ```bash
 npm install
